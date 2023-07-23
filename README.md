@@ -30,6 +30,7 @@ Library `ants` implements a goroutine pool with fixed capacity, managing and rec
 
 ## 💡 How `ants` works
 
+
 ### Flow Diagram
 
 <p align="center">
